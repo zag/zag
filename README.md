@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 Hi. I’m Alex. I am interested in personal publishing, decentralized systems and software engineering.
-Currently working on [Podlite](https://github.com/zag/podlite-desktop) and associated projects.
+<!-- Currently working on [Podlite](https://github.com/zag/podlite-desktop) and associated projects. -->
 For more information about me, check out [zahatski.com](https://zahatski.com/).
 
 thank you!
